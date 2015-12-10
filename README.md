@@ -2,7 +2,9 @@
 Utility to upload files via WebDAV from the command line.
 
 ## Usage
-davsend file.ext
+1. Either save the file to or link from /usr/local/bin/davsend
+2. Make the file executable
+3. ```davsend file.ext```
 
 ## Sublime Text Integration
 Create a new build system with the following:
